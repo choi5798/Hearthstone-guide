@@ -1,0 +1,13 @@
+﻿.idea
+
+node_modules
+
+*.txt
+
+.env
+
+*.log
+
+npm-debug.log*
+
+.hsjintrc

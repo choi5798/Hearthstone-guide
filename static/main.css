@@ -1,0 +1,87 @@
+﻿body 
+{
+ 	background-color:white;
+	font-family:"맑은 고딕",verdana,굴림;
+}
+h1 
+{
+	color:#4C4C4C;
+	text-align:center;
+	font-size:60px;
+ 	font-weight:bold;
+}
+h3.form-signin-heading
+{
+	color:#4C4C4C;
+	text-align:center;
+	font-weight:bold;
+}
+p 
+{
+	font-family:verdana,맑은 고딕;
+	font-size:20px;
+}
+p.lead
+{
+	text-align:center;
+	font-family:verdana,맑은 고딕;
+	font-size:30px;
+ 	font-weight:bold;
+	color:#A6A6A6;
+}
+form.form-signin 
+{
+    max-width:500px;
+    margin: auto;
+}
+table 
+{
+    border-collapse:separate;
+	margin:auto;
+	font-size:auto;
+} 
+th
+{
+	text-align:center;
+	background-color:#EAEAEA;
+}
+td
+{
+	padding:0px !important;
+	height:4px !important;
+	width:100px;
+}
+td.first
+{
+	font-size:15px;
+	font-weight:bold;
+	text-align:center;
+	vertical-align:middle !important;
+	background-color:#B2CCFF;
+}
+div.padding
+{
+	padding-top:150px;
+}
+div.grid
+{
+	display:block;
+	height:50px;
+	line-height:50px;
+	box-sizing:border-box;
+	border-top:1px solid #EAEAEA;
+}
+div.box
+{
+	font-size:32px;
+	border:2px solid black;
+	border-radius:5px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+input.search
+{
+	margin-bottom:5px;
+	border-width:5px;
+	border-color:#EAEAEA;
+}
